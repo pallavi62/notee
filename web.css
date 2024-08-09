@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+}
+input{
+    width:220px;
+    height: 40px;
+    border-radius: 20px;
+}
+button{
+    margin: 40px;
+}
+div{
+    background-color: aqua;
+}
